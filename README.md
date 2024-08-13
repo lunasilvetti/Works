@@ -7,7 +7,7 @@ Los mapas fueron realizados usando imagenens Landsat 5 (para años 1989 y 2004) 
 ![Comparacion de mapas del pasado](https://github.com/user-attachments/assets/1115a7ef-a28f-4d93-90ff-13c14522acd7)
 
 
-#---
+---
 2- Clasificacion supervisada usando el algoritmo RandomForest en GEE, para identificar la presencia de leñosas Shinopsis haenkeana en el centro de Argentina. Año 2020
 El mapa fue realizado usando imagenens Sentinel 2A. La composicion fue realizada usando Qgis.
 
