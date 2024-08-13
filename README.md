@@ -4,7 +4,7 @@
 1- Clasificacion supervisada usando el algoritmo RandomForest en GEE, para mapas de cobertura y usos del suelo en el bosque Serrano, centro de Argentina. Años 1989, 2004, 2019.- 11
 Los mapas fueron realizados usando imagenens Landsat 5 (para años 1989 y 2004) y Sentinel 2A (para el año 2019). La composicion fue realizada en Qgis
 
-Trabajo completo en Silvetti et al. (2022) Multi-temporal analysis of the cover change of the Serrano forest in central Argentina through remote sensing. In 2022 IEEE Biennial Congress of Argentina (ARGENCON) (pp. 1-7). IEEE. 10.1109/ARGENCON55245.2022.9939712
+Trabajo completo en Silvetti et al. (2022) Multi-temporal analysis of the cover change of the Serrano forest in central Argentina through remote sensing. In 2022 IEEE Biennial Congress of Argentina (ARGENCON) (pp. 1-7). IEEE. https://doi.org/10.1109/ARGENCON55245.2022.9939712
 
 ![Comparacion de mapas del pasado](https://github.com/user-attachments/assets/1115a7ef-a28f-4d93-90ff-13c14522acd7)
 
