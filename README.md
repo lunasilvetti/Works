@@ -25,3 +25,10 @@ Trabajo completo en Silvetti & Bellis (2024). Detection of woody species Schinop
 El mapas fue realizados usando imagenens  Sentinel 2A (para el año 2019). La composicion fue realizada en Qgis para actividades de la Diplomatura Universitaria en Geomatica, dictada en el Instituto Gulich - CONAE - UNC
 
 ![Mapa_SitiosCobertura_300dpi](https://github.com/user-attachments/assets/fbc1b7ea-a17d-494c-a1d0-f25ac5464668)
+
+
+---
+4- Mapa de valor unitario de alquiler para la ciudad de Villa Allende, provincia de Cordoba. 
+El mapa fue realizado en QGIS
+
+![mapas-y-cartografia-gis-analisis-de-datos-espaciales](https://github.com/user-attachments/assets/49f2eb63-0b4a-422f-be5b-42981549ede0)
